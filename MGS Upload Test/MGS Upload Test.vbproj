@@ -194,5 +194,13 @@
   <ItemGroup>
     <None Include="Resources\IP1d2.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="JsonFiles\JSon_Create_ParentCompany.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="JsonFiles\JSon_Create_SalIn.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

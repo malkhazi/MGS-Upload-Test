@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "412699959",
+    "pcomp_code": "412699959",
+    "pc_name": "shps aura",
+    "pc_vat_num": "412699959",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "412703971",
+    "pcomp_code": "412703971",
+    "pc_name": "shps anna",
+    "pc_vat_num": "412703971",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "412721069",
+    "pcomp_code": "412721069",
+    "pc_name": "shps babu 555",
+    "pc_vat_num": "412721069",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "421273641",
+    "pcomp_code": "421273641",
+    "pc_name": "shps birtvi",
+    "pc_vat_num": "421273641",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "60001122431",
+    "pcomp_code": "60001122431",
+    "pc_name": "irakli chanturidze",
+    "pc_vat_num": "60001122431",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "60002006746",
+    "pcomp_code": "60002006746",
+    "pc_name": "soso kufaradze",
+    "pc_vat_num": "60002006746",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "60002007386",
+    "pcomp_code": "60002007386",
+    "pc_name": "irina gagua",
+    "pc_vat_num": "60002007386",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "60003003274",
+    "pcomp_code": "60003003274",
+    "pc_name": "romani dadunashvili",
+    "pc_vat_num": "60003003274",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01001020964",
+    "pcomp_code": "01001020964",
+    "pc_name": "leila gogoladze",
+    "pc_vat_num": "01001020964",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01001028460",
+    "pcomp_code": "01001028460",
+    "pc_name": "marina kervalishvili",
+    "pc_vat_num": "01001028460",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01001057491",
+    "pcomp_code": "01001057491",
+    "pc_name": "a. f",
+    "pc_vat_num": "01001057491",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01001069503",
+    "pcomp_code": "01001069503",
+    "pc_name": "revaz beltadze",
+    "pc_vat_num": "01001069503",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01001073039",
+    "pcomp_code": "01001073039",
+    "pc_name": "fridon beltadze",
+    "pc_vat_num": "01001073039",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01002015151",
+    "pcomp_code": "01002015151",
+    "pc_name": "soso dundua",
+    "pc_vat_num": "01002015151",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01003013893",
+    "pcomp_code": "01003013893",
+    "pc_name": "xatuna taqtaqishvili",
+    "pc_vat_num": "01003013893",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01004004215",
+    "pcomp_code": "01004004215",
+    "pc_name": "maia gogatishvili",
+    "pc_vat_num": "01004004215",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01005000191",
+    "pcomp_code": "01005000191",
+    "pc_name": "sofio lekishvili",
+    "pc_vat_num": "01005000191",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01005025991",
+    "pcomp_code": "01005025991",
+    "pc_name": "marina gelenidze",
+    "pc_vat_num": "01005025991",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01005033551",
+    "pcomp_code": "01005033551",
+    "pc_name": "mariam qishmareishvili",
+    "pc_vat_num": "01005033551",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01006006228",
+    "pcomp_code": "01006006228",
+    "pc_name": "davit vashalomidze",
+    "pc_vat_num": "01006006228",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01007001432",
+    "pcomp_code": "01007001432",
+    "pc_name": "kaxa maglakelidze",
+    "pc_vat_num": "01007001432",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01008039342",
+    "pcomp_code": "01008039342",
+    "pc_name": "nona ushveridze",
+    "pc_vat_num": "01008039342",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01008048763",
+    "pcomp_code": "01008048763",
+    "pc_name": "elene cirekidze",
+    "pc_vat_num": "01008048763",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01008059823",
+    "pcomp_code": "01008059823",
+    "pc_name": "beqa modebadze",
+    "pc_vat_num": "01008059823",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01011075196",
+    "pcomp_code": "01011075196",
+    "pc_name": "nino kereselidze",
+    "pc_vat_num": "01011075196",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01011092819",
+    "pcomp_code": "01011092819",
+    "pc_name": "tamta gogia",
+    "pc_vat_num": "01011092819",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01012000992",
+    "pcomp_code": "01012000992",
+    "pc_name": "shorena chini",
+    "pc_vat_num": "01012000992",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01012009258",
+    "pcomp_code": "01012009258",
+    "pc_name": "nino nebulishvili",
+    "pc_vat_num": "01012009258",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01012017961",
+    "pcomp_code": "01012017961",
+    "pc_name": "d. b",
+    "pc_vat_num": "01012017961",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01012025721",
+    "pcomp_code": "01012025721",
+    "pc_name": "qetevan beshidze",
+    "pc_vat_num": "01012025721",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01013010238",
+    "pcomp_code": "01013010238",
+    "pc_name": "levan xidesheli",
+    "pc_vat_num": "01013010238",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01015008118",
+    "pcomp_code": "01015008118",
+    "pc_name": "roland museridze",
+    "pc_vat_num": "01015008118",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01015016626",
+    "pcomp_code": "01015016626",
+    "pc_name": "irma gambarovi",
+    "pc_vat_num": "01015016626",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01016004178",
+    "pcomp_code": "01016004178",
+    "pc_name": "sofio gogichaishvili",
+    "pc_vat_num": "01016004178",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01017000108",
+    "pcomp_code": "01017000108",
+    "pc_name": "lia chixoria",
+    "pc_vat_num": "01017000108",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01017005475",
+    "pcomp_code": "01017005475",
+    "pc_name": "merab tsereteli",
+    "pc_vat_num": "01017005475",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01017039834",
+    "pcomp_code": "01017039834",
+    "pc_name": "zauri talabadze",
+    "pc_vat_num": "01017039834",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01017042624",
+    "pcomp_code": "01017042624",
+    "pc_name": "nino kapanadze",
+    "pc_vat_num": "01017042624",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01019005630",
+    "pcomp_code": "01019005630",
+    "pc_name": "m. c",
+    "pc_vat_num": "01019005630",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01019018853",
+    "pcomp_code": "01019018853",
+    "pc_name": "n. sh",
+    "pc_vat_num": "01019018853",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01019033770",
+    "pcomp_code": "01019033770",
+    "pc_name": "marine orbeladze",
+    "pc_vat_num": "01019033770",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01019064380",
+    "pcomp_code": "01019064380",
+    "pc_name": "ani abutidze",
+    "pc_vat_num": "01019064380",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01019067183",
+    "pcomp_code": "01019067183",
+    "pc_name": "rusudan chigvaria",
+    "pc_vat_num": "01019067183",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01019067184",
+    "pcomp_code": "01019067184",
+    "pc_name": "nuca chigvaria",
+    "pc_vat_num": "01019067184",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01022007948",
+    "pcomp_code": "01022007948",
+    "pc_name": "lia agapishvili",
+    "pc_vat_num": "01022007948",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01023002467",
+    "pcomp_code": "01023002467",
+    "pc_name": "k. sh",
+    "pc_vat_num": "01023002467",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01024027006",
+    "pcomp_code": "01024027006",
+    "pc_name": "ana chiqobava",
+    "pc_vat_num": "01024027006",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01024042525",
+    "pcomp_code": "01024042525",
+    "pc_name": "lela beradze-kobaxidze",
+    "pc_vat_num": "01024042525",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01024082689",
+    "pcomp_code": "01024082689",
+    "pc_name": "mariam sxiladze",
+    "pc_vat_num": "01024082689",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01025003626",
+    "pcomp_code": "01025003626",
+    "pc_name": "daviti gogoladze",
+    "pc_vat_num": "01025003626",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01025017699",
+    "pcomp_code": "01025017699",
+    "pc_name": "m. g",
+    "pc_vat_num": "01025017699",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01027030172",
+    "pcomp_code": "01027030172",
+    "pc_name": "ia raminashvili",
+    "pc_vat_num": "01027030172",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01027055165",
+    "pcomp_code": "01027055165",
+    "pc_name": "albert msxvilidze",
+    "pc_vat_num": "01027055165",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01030016868",
+    "pcomp_code": "01030016868",
+    "pc_name": "maia cagurishvili",
+    "pc_vat_num": "01030016868",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01032004239",
+    "pcomp_code": "01032004239",
+    "pc_name": "",
+    "pc_vat_num": "01032004239",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01033004421",
+    "pcomp_code": "01033004421",
+    "pc_name": "c. k",
+    "pc_vat_num": "01033004421",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01033004472",
+    "pcomp_code": "01033004472",
+    "pc_name": "sofio guliashvili",
+    "pc_vat_num": "01033004472",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01034001409",
+    "pcomp_code": "01034001409",
+    "pc_name": "lamara kobaxidze",
+    "pc_vat_num": "01034001409",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01034001618",
+    "pcomp_code": "01034001618",
+    "pc_name": "",
+    "pc_vat_num": "01034001618",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01034002273",
+    "pcomp_code": "01034002273",
+    "pc_name": "soso kobaxidze",
+    "pc_vat_num": "01034002273",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01101136626",
+    "pcomp_code": "01101136626",
+    "pc_name": "elza doxnadze",
+    "pc_vat_num": "01101136626",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "01201131769",
+    "pcomp_code": "01201131769",
+    "pc_name": "marina shengelia",
+    "pc_vat_num": "01201131769",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "02001001508",
+    "pcomp_code": "02001001508",
+    "pc_name": "grigol quntelia",
+    "pc_vat_num": "02001001508",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "02001001706",
+    "pcomp_code": "02001001706",
+    "pc_name": "zurabi talikadze",
+    "pc_vat_num": "02001001706",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "02001001838",
+    "pcomp_code": "02001001838",
+    "pc_name": "kaxa axobadze",
+    "pc_vat_num": "02001001838",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "02001002745",
+    "pcomp_code": "02001002745",
+    "pc_name": "klimenti ninua",
+    "pc_vat_num": "02001002745",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "02001003372",
+    "pcomp_code": "02001003372",
+    "pc_name": "inga shubladze",
+    "pc_vat_num": "02001003372",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "02001003440",
+    "pcomp_code": "02001003440",
+    "pc_name": "eka svanadze",
+    "pc_vat_num": "02001003440",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "02001004173",
+    "pcomp_code": "02001004173",
+    "pc_name": "giorgi miminoshvili",
+    "pc_vat_num": "02001004173",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "02001004404",
+    "pcomp_code": "02001004404",
+    "pc_name": "mzia grigolia",
+    "pc_vat_num": "02001004404",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "02001005537",
+    "pcomp_code": "02001005537",
+    "pc_name": "lia miminoshvili",
+    "pc_vat_num": "02001005537",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "02001006254",
+    "pcomp_code": "02001006254",
+    "pc_name": "mamuka boxua",
+    "pc_vat_num": "02001006254",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "02001016961",
+    "pcomp_code": "02001016961",
+    "pc_name": "giorgi barateli",
+    "pc_vat_num": "02001016961",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "02001022845",
+    "pcomp_code": "02001022845",
+    "pc_name": "tamari janelidze",
+    "pc_vat_num": "02001022845",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "02001025062",
+    "pcomp_code": "02001025062",
+    "pc_name": "aza didia",
+    "pc_vat_num": "02001025062",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "02001025589",
+    "pcomp_code": "02001025589",
+    "pc_name": "salome talikadze",
+    "pc_vat_num": "02001025589",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "02001025663",
+    "pcomp_code": "02001025663",
+    "pc_name": "giorgi kakulia",
+    "pc_vat_num": "02001025663",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "03001003232",
+    "pcomp_code": "03001003232",
+    "pc_name": "tinatin gorgodze",
+    "pc_vat_num": "03001003232",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001000392",
+    "pcomp_code": "04001000392",
+    "pc_name": "tina lomtadze",
+    "pc_vat_num": "04001000392",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001000411",
+    "pcomp_code": "04001000411",
+    "pc_name": "tea gogoberishvili",
+    "pc_vat_num": "04001000411",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001000439",
+    "pcomp_code": "04001000439",
+    "pc_name": "levan miqadze",
+    "pc_vat_num": "04001000439",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001000601",
+    "pcomp_code": "04001000601",
+    "pc_name": "levan kibabidze",
+    "pc_vat_num": "04001000601",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001000840",
+    "pcomp_code": "04001000840",
+    "pc_name": "a. m",
+    "pc_vat_num": "04001000840",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001001696",
+    "pcomp_code": "04001001696",
+    "pc_name": "nato gabelashvili",
+    "pc_vat_num": "04001001696",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001001705",
+    "pcomp_code": "04001001705",
+    "pc_name": "neli natmeladze",
+    "pc_vat_num": "04001001705",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001001815",
+    "pcomp_code": "04001001815",
+    "pc_name": "dali dvali",
+    "pc_vat_num": "04001001815",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001001912",
+    "pcomp_code": "04001001912",
+    "pc_name": "veriko choxonelidze",
+    "pc_vat_num": "04001001912",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001002266",
+    "pcomp_code": "04001002266",
+    "pc_name": "manana bakuradze",
+    "pc_vat_num": "04001002266",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001002309",
+    "pcomp_code": "04001002309",
+    "pc_name": "irine guruli",
+    "pc_vat_num": "04001002309",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001002333",
+    "pcomp_code": "04001002333",
+    "pc_name": "akaki janelidze",
+    "pc_vat_num": "04001002333",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001002404",
+    "pcomp_code": "04001002404",
+    "pc_name": "murman chigvaria",
+    "pc_vat_num": "04001002404",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001002405",
+    "pcomp_code": "04001002405",
+    "pc_name": "leila cxviravashvili",
+    "pc_vat_num": "04001002405",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001002546",
+    "pcomp_code": "04001002546",
+    "pc_name": "g. ch",
+    "pc_vat_num": "04001002546",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001002558",
+    "pcomp_code": "04001002558",
+    "pc_name": "merabi janelidze",
+    "pc_vat_num": "04001002558",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001002689",
+    "pcomp_code": "04001002689",
+    "pc_name": "vara kereselidze",
+    "pc_vat_num": "04001002689",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001002756",
+    "pcomp_code": "04001002756",
+    "pc_name": "nino iashvili",
+    "pc_vat_num": "04001002756",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001002980",
+    "pcomp_code": "04001002980",
+    "pc_name": "omari gociridze",
+    "pc_vat_num": "04001002980",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001003110",
+    "pcomp_code": "04001003110",
+    "pc_name": "rusudan tvaradze",
+    "pc_vat_num": "04001003110",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001003405",
+    "pcomp_code": "04001003405",
+    "pc_name": "jemal machankaladze",
+    "pc_vat_num": "04001003405",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001003588",
+    "pcomp_code": "04001003588",
+    "pc_name": "qeto gogsadze",
+    "pc_vat_num": "04001003588",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001003828",
+    "pcomp_code": "04001003828",
+    "pc_name": "emzar chikvaidze",
+    "pc_vat_num": "04001003828",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001004163",
+    "pcomp_code": "04001004163",
+    "pc_name": "valeri jangidze",
+    "pc_vat_num": "04001004163",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001004200",
+    "pcomp_code": "04001004200",
+    "pc_name": "natalia xachapuridze",
+    "pc_vat_num": "04001004200",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001004245",
+    "pcomp_code": "04001004245",
+    "pc_name": "angi gogilidze",
+    "pc_vat_num": "04001004245",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001004274",
+    "pcomp_code": "04001004274",
+    "pc_name": "nikoloz kobaxidze",
+    "pc_vat_num": "04001004274",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001004330",
+    "pcomp_code": "04001004330",
+    "pc_name": "dezdemona kobaxidze",
+    "pc_vat_num": "04001004330",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001004332",
+    "pcomp_code": "04001004332",
+    "pc_name": "nino sharabidze",
+    "pc_vat_num": "04001004332",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001004380",
+    "pcomp_code": "04001004380",
+    "pc_name": "r. k",
+    "pc_vat_num": "04001004380",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001004386",
+    "pcomp_code": "04001004386",
+    "pc_name": "q. t",
+    "pc_vat_num": "04001004386",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001004442",
+    "pcomp_code": "04001004442",
+    "pc_name": "teona tomadze",
+    "pc_vat_num": "04001004442",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001004497",
+    "pcomp_code": "04001004497",
+    "pc_name": "qetevan iashvili",
+    "pc_vat_num": "04001004497",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001004974",
+    "pcomp_code": "04001004974",
+    "pc_name": "jemal suladze",
+    "pc_vat_num": "04001004974",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001005051",
+    "pcomp_code": "04001005051",
+    "pc_name": "r. j",
+    "pc_vat_num": "04001005051",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001005157",
+    "pcomp_code": "04001005157",
+    "pc_name": "serioja tsereteli",
+    "pc_vat_num": "04001005157",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001005205",
+    "pcomp_code": "04001005205",
+    "pc_name": "n. s",
+    "pc_vat_num": "04001005205",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001005303",
+    "pcomp_code": "04001005303",
+    "pc_name": "nanuli soxadze",
+    "pc_vat_num": "04001005303",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001005483",
+    "pcomp_code": "04001005483",
+    "pc_name": "naziko gogoberishvili",
+    "pc_vat_num": "04001005483",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001005768",
+    "pcomp_code": "04001005768",
+    "pc_name": "lasha dvali",
+    "pc_vat_num": "04001005768",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001006075",
+    "pcomp_code": "04001006075",
+    "pc_name": "xatuna farjanadze",
+    "pc_vat_num": "04001006075",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001006078",
+    "pcomp_code": "04001006078",
+    "pc_name": "tariel gveletiani",
+    "pc_vat_num": "04001006078",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001006492",
+    "pcomp_code": "04001006492",
+    "pc_name": "nugzar guruli",
+    "pc_vat_num": "04001006492",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001006556",
+    "pcomp_code": "04001006556",
+    "pc_name": "marizi siradze",
+    "pc_vat_num": "04001006556",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001006779",
+    "pcomp_code": "04001006779",
+    "pc_name": "demur murusidze",
+    "pc_vat_num": "04001006779",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001007331",
+    "pcomp_code": "04001007331",
+    "pc_name": "manana charqseliani",
+    "pc_vat_num": "04001007331",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001007598",
+    "pcomp_code": "04001007598",
+    "pc_name": "qsenia burdiladze",
+    "pc_vat_num": "04001007598",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001008974",
+    "pcomp_code": "04001008974",
+    "pc_name": "malxaz lexutashvili",
+    "pc_vat_num": "04001008974",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001009057",
+    "pcomp_code": "04001009057",
+    "pc_name": "irma joxadze",
+    "pc_vat_num": "04001009057",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001009809",
+    "pcomp_code": "04001009809",
+    "pc_name": "q. k",
+    "pc_vat_num": "04001009809",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001009953",
+    "pcomp_code": "04001009953",
+    "pc_name": "m. g",
+    "pc_vat_num": "04001009953",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001010852",
+    "pcomp_code": "04001010852",
+    "pc_name": "malxaz beshidze",
+    "pc_vat_num": "04001010852",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001010889",
+    "pcomp_code": "04001010889",
+    "pc_name": "n. d",
+    "pc_vat_num": "04001010889",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001010917",
+    "pcomp_code": "04001010917",
+    "pc_name": "emzari lomtadze",
+    "pc_vat_num": "04001010917",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001010918",
+    "pcomp_code": "04001010918",
+    "pc_name": "maia bakuradze",
+    "pc_vat_num": "04001010918",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001010960",
+    "pcomp_code": "04001010960",
+    "pc_name": "tina dvali",
+    "pc_vat_num": "04001010960",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001011275",
+    "pcomp_code": "04001011275",
+    "pc_name": "qetevan cucxashvili",
+    "pc_vat_num": "04001011275",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001011514",
+    "pcomp_code": "04001011514",
+    "pc_name": "m. m",
+    "pc_vat_num": "04001011514",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001011708",
+    "pcomp_code": "04001011708",
+    "pc_name": "gia kobaxidze",
+    "pc_vat_num": "04001011708",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001012099",
+    "pcomp_code": "04001012099",
+    "pc_name": "nino cxvediani",
+    "pc_vat_num": "04001012099",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001012206",
+    "pcomp_code": "04001012206",
+    "pc_name": "avtandil maxaldiani",
+    "pc_vat_num": "04001012206",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001012558",
+    "pcomp_code": "04001012558",
+    "pc_name": "zviad sharabidze",
+    "pc_vat_num": "04001012558",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001013019",
+    "pcomp_code": "04001013019",
+    "pc_name": "zoia gogolashvili",
+    "pc_vat_num": "04001013019",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001013468",
+    "pcomp_code": "04001013468",
+    "pc_name": "naziko kobaxidze",
+    "pc_vat_num": "04001013468",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001013474",
+    "pcomp_code": "04001013474",
+    "pc_name": "natela maisuradze",
+    "pc_vat_num": "04001013474",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001013579",
+    "pcomp_code": "04001013579",
+    "pc_name": "eliza gabiani",
+    "pc_vat_num": "04001013579",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001013626",
+    "pcomp_code": "04001013626",
+    "pc_name": "e. l",
+    "pc_vat_num": "04001013626",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001014061",
+    "pcomp_code": "04001014061",
+    "pc_name": "gvanca kikvadze",
+    "pc_vat_num": "04001014061",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001014256",
+    "pcomp_code": "04001014256",
+    "pc_name": "neli guruli",
+    "pc_vat_num": "04001014256",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001014298",
+    "pcomp_code": "04001014298",
+    "pc_name": "melano kikvadze",
+    "pc_vat_num": "04001014298",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001014328",
+    "pcomp_code": "04001014328",
+    "pc_name": "koba chichinadze",
+    "pc_vat_num": "04001014328",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001014586",
+    "pcomp_code": "04001014586",
+    "pc_name": "n. o",
+    "pc_vat_num": "04001014586",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001014621",
+    "pcomp_code": "04001014621",
+    "pc_name": "tika gogoreliani",
+    "pc_vat_num": "04001014621",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001014741",
+    "pcomp_code": "04001014741",
+    "pc_name": "revaz bregvadze",
+    "pc_vat_num": "04001014741",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001014797",
+    "pcomp_code": "04001014797",
+    "pc_name": "ana charqseliani",
+    "pc_vat_num": "04001014797",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "04001015139",
+    "pcomp_code": "04001015139",
+    "pc_name": "saba gagoshidze",
+    "pc_vat_num": "04001015139",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001000026",
+    "pcomp_code": "09001000026",
+    "pc_name": "davit axaladze",
+    "pc_vat_num": "09001000026",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001000278",
+    "pcomp_code": "09001000278",
+    "pc_name": "marexi gelxviidze",
+    "pc_vat_num": "09001000278",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001000405",
+    "pcomp_code": "09001000405",
+    "pc_name": "gucuna  furceladze",
+    "pc_vat_num": "09001000405",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001000409",
+    "pcomp_code": "09001000409",
+    "pc_name": "eliso kobaxidze",
+    "pc_vat_num": "09001000409",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001000418",
+    "pcomp_code": "09001000418",
+    "pc_name": "malxaz kvirikashvili",
+    "pc_vat_num": "09001000418",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001000521",
+    "pcomp_code": "09001000521",
+    "pc_name": "s. m",
+    "pc_vat_num": "09001000521",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001000591",
+    "pcomp_code": "09001000591",
+    "pc_name": "robert zivzivadze",
+    "pc_vat_num": "09001000591",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001000956",
+    "pcomp_code": "09001000956",
+    "pc_name": "pavle kvirikashvili",
+    "pc_vat_num": "09001000956",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001000971",
+    "pcomp_code": "09001000971",
+    "pc_name": "lasha tutberidze",
+    "pc_vat_num": "09001000971",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001001022",
+    "pcomp_code": "09001001022",
+    "pc_name": "nino mashaneishvili",
+    "pc_vat_num": "09001001022",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001001336",
+    "pcomp_code": "09001001336",
+    "pc_name": "venediqte mshvildadze",
+    "pc_vat_num": "09001001336",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001001396",
+    "pcomp_code": "09001001396",
+    "pc_name": "nana gumberidze",
+    "pc_vat_num": "09001001396",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001001620",
+    "pcomp_code": "09001001620",
+    "pc_name": "zviad daxundaridze",
+    "pc_vat_num": "09001001620",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001001961",
+    "pcomp_code": "09001001961",
+    "pc_name": "jana shapovalovi",
+    "pc_vat_num": "09001001961",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001002124",
+    "pcomp_code": "09001002124",
+    "pc_name": "",
+    "pc_vat_num": "09001002124",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001002410",
+    "pcomp_code": "09001002410",
+    "pc_name": "d. r",
+    "pc_vat_num": "09001002410",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001002450",
+    "pcomp_code": "09001002450",
+    "pc_name": "shalva lomidze",
+    "pc_vat_num": "09001002450",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001002566",
+    "pcomp_code": "09001002566",
+    "pc_name": "malxaz maxatadze",
+    "pc_vat_num": "09001002566",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001002723",
+    "pcomp_code": "09001002723",
+    "pc_name": "koba pataridze",
+    "pc_vat_num": "09001002723",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001002750",
+    "pcomp_code": "09001002750",
+    "pc_name": "dali sanikiani",
+    "pc_vat_num": "09001002750",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001002764",
+    "pcomp_code": "09001002764",
+    "pc_name": "gogi turqadze",
+    "pc_vat_num": "09001002764",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001003208",
+    "pcomp_code": "09001003208",
+    "pc_name": "joni mamasaxlisi",
+    "pc_vat_num": "09001003208",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001003277",
+    "pcomp_code": "09001003277",
+    "pc_name": "shmagi gogsadze",
+    "pc_vat_num": "09001003277",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001003327",
+    "pcomp_code": "09001003327",
+    "pc_name": "giorgi vashakmadze",
+    "pc_vat_num": "09001003327",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001003408",
+    "pcomp_code": "09001003408",
+    "pc_name": "zurab devidze",
+    "pc_vat_num": "09001003408",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001004018",
+    "pcomp_code": "09001004018",
+    "pc_name": "qetevan chubinidze",
+    "pc_vat_num": "09001004018",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001004068",
+    "pcomp_code": "09001004068",
+    "pc_name": "iuri chautidze",
+    "pc_vat_num": "09001004068",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001004445",
+    "pcomp_code": "09001004445",
+    "pc_name": "b. s",
+    "pc_vat_num": "09001004445",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001004628",
+    "pcomp_code": "09001004628",
+    "pc_name": "lola ivaneishvili",
+    "pc_vat_num": "09001004628",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001004687",
+    "pcomp_code": "09001004687",
+    "pc_name": "bichiko tsitadze",
+    "pc_vat_num": "09001004687",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001004870",
+    "pcomp_code": "09001004870",
+    "pc_name": "maia ziraqadze",
+    "pc_vat_num": "09001004870",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001004943",
+    "pcomp_code": "09001004943",
+    "pc_name": "zoia nergadze",
+    "pc_vat_num": "09001004943",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001004957",
+    "pcomp_code": "09001004957",
+    "pc_name": "x. b",
+    "pc_vat_num": "09001004957",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001005022",
+    "pcomp_code": "09001005022",
+    "pc_name": "makvala maglakelidze",
+    "pc_vat_num": "09001005022",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001005467",
+    "pcomp_code": "09001005467",
+    "pc_name": "natia mefarishvili",
+    "pc_vat_num": "09001005467",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001005586",
+    "pcomp_code": "09001005586",
+    "pc_name": "giorgi maxareishvili",
+    "pc_vat_num": "09001005586",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001005656",
+    "pcomp_code": "09001005656",
+    "pc_name": "mamuka anakidze",
+    "pc_vat_num": "09001005656",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001005802",
+    "pcomp_code": "09001005802",
+    "pc_name": "a. ch",
+    "pc_vat_num": "09001005802",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001005810",
+    "pcomp_code": "09001005810",
+    "pc_name": "paata minadze",
+    "pc_vat_num": "09001005810",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001005886",
+    "pcomp_code": "09001005886",
+    "pc_name": "didimi gogsadze",
+    "pc_vat_num": "09001005886",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001006112",
+    "pcomp_code": "09001006112",
+    "pc_name": "nino furceladze",
+    "pc_vat_num": "09001006112",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001006278",
+    "pcomp_code": "09001006278",
+    "pc_name": "mamuka furceladze",
+    "pc_vat_num": "09001006278",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001006292",
+    "pcomp_code": "09001006292",
+    "pc_name": "zaal lomidze",
+    "pc_vat_num": "09001006292",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001006359",
+    "pcomp_code": "09001006359",
+    "pc_name": "lia gelxviidze",
+    "pc_vat_num": "09001006359",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001006564",
+    "pcomp_code": "09001006564",
+    "pc_name": "gocha robaqidze",
+    "pc_vat_num": "09001006564",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  },
+  {
+    "id": "09001006638",
+    "pcomp_code": "09001006638",
+    "pc_name": "abeli svanidze",
+    "pc_vat_num": "09001006638",
+    "status": "2",
+    "dtlm": "2024-06-07T10:36",
+    "cust_id": ""
+  }
+]
